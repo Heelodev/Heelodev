@@ -22,3 +22,13 @@ We're building, testing, and improving HEELO.
 Visit our website: https://heelo.dev
 
 Stay tuned for project updates, technical insights, and future demos.
+
+## 💬 Join the HEELO Community
+
+Interested in AI agents, automation, and real-world tool execution?
+
+Join our Discord community to follow development updates, discuss ideas, and share feedback as we continue building HEELO.
+
+👉 **Join us on Discord:** https://discord.gg/DqtEXzSbE
+
+**From Talking to Doing. 🚀**
