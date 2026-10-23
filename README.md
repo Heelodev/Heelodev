@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Welcome to HEELO
 
-<!--
-**Heelodev/Heelodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### From Talking to Doing.
 
-Here are some ideas to get you started:
+HEELO is building an execution layer for AI agents, connecting AI reasoning with real-world tools and workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI can generate plans, draft emails, and organize information. But turning those responses into reliable actions remains a challenge.
+
+We're exploring how to bridge that gap.
+
+### What We're Building
+
+- **Tool Integration** — Connecting AI agents with external services
+- **Multi-step Workflows** — Supporting tasks involving multiple operations
+- **Reliable Execution** — Improving error handling, testing, and observability
+- **Developer Experience** — Making tool interactions easier to integrate
+
+### Follow Our Journey
+
+We're building, testing, and improving HEELO.
+
+Visit our website: https://heelo.dev
+
+Stay tuned for project updates, technical insights, and future demos.
